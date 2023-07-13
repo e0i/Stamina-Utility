@@ -1,0 +1,2 @@
+# Stam Counter Utility
+Basic 2 in 1 utility that serves as an hour logger and an afk checker. To begin the hour logger simply type ```start``` in your hours channel, to begin the afk checker type ```afk check @(user)``` in chat.
